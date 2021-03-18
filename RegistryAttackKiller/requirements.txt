@@ -1,0 +1,5 @@
+pywin32
+sys
+os
+pywintypes
+psutil

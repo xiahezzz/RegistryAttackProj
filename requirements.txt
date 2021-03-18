@@ -1,0 +1,13 @@
+os
+sys
+psutil
+random
+subprocess
+pywintypes
+smtplib
+email
+datetime
+PyQt5
+threading
+socket
+pywin32
